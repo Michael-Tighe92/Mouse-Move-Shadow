@@ -1,2 +1,3 @@
 # Mouse-Move-Shadow
-Created using Mouse Move Shadow (JavaScript30)
+
+- A Javascript project that creates shadows that move depending on where the mouse is on screen.
